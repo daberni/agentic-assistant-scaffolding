@@ -1,0 +1,54 @@
+---
+user-invocable: false
+---
+
+# Über mich — Kontext für Claude
+
+**Rolle:** [Deine Rolle, z.B. „Software Engineer", „Engineering Manager", „Product Owner"]
+**Unternehmen:** [Unternehmen / Team]
+**Standort:** [Stadt / Remote]
+**Arbeitskontext:** [1–2 Sätze: Was machst du, mit wem arbeitest du zusammen, was ist dein typischer Tag]
+
+**Stil:** [Sprache, Tonfall — z.B. „Deutsch, kurz und direkt. Aufgaben als `- [ ]`. Entscheidungen als `**Entscheidung:**`. Technische Bezeichner/Code auf Englisch."]
+
+---
+
+## Verantwortungsbereiche
+
+_Was sind deine laufenden Bereiche? (z.B. Produkte, Teams, Plattformen)_
+
+- **[Bereich A]** — [Beschreibung] → [Verweis auf `04-areas/...`]
+- **[Bereich B]** — [Beschreibung] → [Verweis auf `04-areas/...`]
+
+---
+
+## Aktuelle Schwerpunkte
+
+_Was beschäftigt dich aktuell? (3–6 Stichpunkte, regelmäßig aktualisieren)_
+
+- [Schwerpunkt 1]
+- [Schwerpunkt 2]
+- [Schwerpunkt 3]
+
+---
+
+## Tools & Systeme
+
+[Liste der Tools, die du täglich nutzt — z.B. Jira · GitHub · Slack · Google Calendar · Gmail]
+
+---
+
+## Täglicher Rhythmus
+
+_Optional: regelmäßige Termine, die Claude kennen sollte_
+
+| Zeit | Meeting |
+|------|---------|
+| Mo–Fr 09:00 | Daily Standup |
+| Di 14:00 | Sprint Planning (zweiwöchentlich) |
+
+---
+
+## Journal-Vault
+
+Struktur, Skills und Workflows: [README.md](README.md)
